@@ -1,1 +1,2 @@
+this is thrird file from strategy branch
 
