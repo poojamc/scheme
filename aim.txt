@@ -1,1 +1,3 @@
-this isfirst file in github
+this is first file in github sheme repo strategy brnch
+hi
+
